@@ -1,18 +1,18 @@
-# code_test_1
+# Assignment1
 
-#install
+# To install the application
 
 npm install
 
-#start server
+# To start server
 
  npm start
 
- #to test endpoint 
+ # To test endpoint 
  
  http://localhost:3000/replaceData
 
- #Task to do
+ # Task to-do
 
  Expose a POST endpoint which accepts an input JSON object with payload, referenceData and returns a transformedPayload (JSON).
 The POST API should substitute the {REF_*} values in payload using refernceData and return the transformed payload. Upper limit for the payload size is 10MB.
