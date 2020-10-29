@@ -10,7 +10,7 @@ npm install
 
  #to test endpoint 
  
- http://localhost:4000/replaceData
+ http://localhost:3000/replaceData
 
  #Task to do
 
