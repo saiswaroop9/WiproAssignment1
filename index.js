@@ -20,6 +20,6 @@ res.send(data);
 })
 
 
-app.listen(4000,()=>{
-    console.log('Listening t the port 4000')
+app.listen(3000,()=>{
+    console.log('Listening t the port 3000')
 })
